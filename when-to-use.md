@@ -8,3 +8,8 @@
 # useMemo
 - When to use
 1. Avoid complex re-calculations 
+2. Solving referential equality problems
+   
+# useCallback
+- When to use
+1. Solving referential equality problems

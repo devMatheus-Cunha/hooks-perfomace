@@ -17,7 +17,7 @@ body {
   height: 100vh;
 }
 
-button {
+.buttonAdd {
   width: 150px;
   padding: 0.4rem;
 
