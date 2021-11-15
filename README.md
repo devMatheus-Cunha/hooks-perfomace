@@ -1,6 +1,6 @@
-<h1 align="center">
- Perfomace with Hooks useMemo, useCallback and memo
-</h1>
+<h3 align="left">
+ Performance with Hooks useMemo, useCallback and memo
+</h3>
 
 ## About
 
